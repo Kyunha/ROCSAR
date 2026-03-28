@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2576-5.0WU
+D Conv DC-DC Single Step Down 4V to 40V Microchip LM2576-5.0WU, Step Down DC-DC Converter, 3A, 6-Pin TO-263
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/lm2576.pdf
+$ENDCMP
+#
+#End Doc Library

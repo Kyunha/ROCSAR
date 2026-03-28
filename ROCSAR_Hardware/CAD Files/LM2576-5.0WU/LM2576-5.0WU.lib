@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LM2576-5.0WU
+#/549620/1715029/2.50/6/4/Undefined or Miscellaneous
+DEF LM2576-5.0WU U 0 30 Y Y 1 F N
+F0 "U" 1150 300 50 H V L CNN
+F1 "LM2576-5.0WU" 1150 200 50 H V L CNN
+F2 "MICROCHIP_TO-263" 1150 100 50 H I L CNN
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/lm2576.pdf" 1150 0 50 H I L CNN
+F4 "Conv DC-DC Single Step Down 4V to 40V Microchip LM2576-5.0WU, Step Down DC-DC Converter, 3A, 6-Pin TO-263" 1150 -100 50 H I L CNN "Description"
+F5 "" 1150 -200 50 H I L CNN "Height"
+F6 "998-LM2576-5.0WU" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/LM2576-5.0WU?qs=kh6iOki%2FeLHlI9xhWDTjJw%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Microchip" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LM2576-5.0WU" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VIN 1 0 0 200 R 50 50 0 0 P
+X OUTPUT 2 0 -100 200 R 50 50 0 0 P
+X GROUND 3 0 -200 200 R 50 50 0 0 P
+X FEEDBACK 4 0 -300 200 R 50 50 0 0 P
+X ~ON~/OFF 5 0 -400 200 R 50 50 0 0 P
+X GND 6 1300 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
