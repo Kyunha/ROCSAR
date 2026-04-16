@@ -3,4 +3,5 @@
   (lib (name "TEN-60-2422N")(type "KiCad")(uri "/home/rafael-cacoete/Desktop/BEXUS/CAD Files/TEN-60-2422N/TEN-60-2422N.kicad_sym")(options "")(descr ""))
   (lib (name "LM2576-5_0WU")(type "KiCad")(uri "/home/rafael-cacoete/Desktop/BEXUS/ROCSAR/ROCSAR_Hardware/CAD Files/LM2576-5.0WU/LM2576-5_0WU.kicad_sym")(options "")(descr ""))
   (lib (name "1N5822")(type "KiCad")(uri "/home/rafael-cacoete/Desktop/BEXUS/ROCSAR/ROCSAR_Hardware/CAD Files/1N5822/1N5822.kicad_sym")(options "")(descr ""))
+  (lib (name "SRR1050HA-331Y")(type "KiCad")(uri "/home/rafael-cacoete/Desktop/BEXUS/ROCSAR/ROCSAR_Hardware/CAD Files/SRR1050HA-331Y/SRR1050HA-331Y.kicad_sym")(options "")(descr ""))
 )

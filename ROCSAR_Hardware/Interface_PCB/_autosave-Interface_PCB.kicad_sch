@@ -6339,7 +6339,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uH"
+		(property "Value" "330uH"
 			(at 346.71 48.2599 0)
 			(effects
 				(font
@@ -6348,7 +6348,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SRR1050HA-331Y:INDPM102100X510N"
 			(at 345.44 46.99 0)
 			(effects
 				(font
@@ -6951,7 +6951,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uH"
+		(property "Value" "330uH"
 			(at 279.4 48.2599 0)
 			(effects
 				(font
@@ -6960,7 +6960,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SRR1050HA-331Y:INDPM102100X510N"
 			(at 278.13 46.99 0)
 			(effects
 				(font
@@ -7004,7 +7004,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB_A")
-		(at 60.96 109.22 0)
+		(at 293.37 113.03 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7013,7 +7013,7 @@
 		(dnp no)
 		(uuid "6b90e9b6-75d0-4f52-a248-f57a7b93a0c5")
 		(property "Reference" "J3"
-			(at 60.96 96.52 0)
+			(at 293.37 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7021,7 +7021,7 @@
 			)
 		)
 		(property "Value" "USB_A"
-			(at 60.96 99.06 0)
+			(at 293.37 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7029,7 +7029,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB_A_Molex_67643_Horizontal"
-			(at 57.15 110.49 0)
+			(at 289.56 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7038,7 +7038,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 110.49 0)
+			(at 289.56 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7047,7 +7047,7 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
-			(at 60.96 109.22 0)
+			(at 293.37 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7819,7 +7819,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 60.96 119.38 0)
+		(at 293.37 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7828,7 +7828,7 @@
 		(fields_autoplaced yes)
 		(uuid "97e9436a-eee2-458e-a4ea-d0c6a4cc21c1")
 		(property "Reference" "#PWR043"
-			(at 60.96 125.73 0)
+			(at 293.37 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7837,7 +7837,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 60.96 124.46 0)
+			(at 293.37 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7845,7 +7845,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 119.38 0)
+			(at 293.37 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7854,7 +7854,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 119.38 0)
+			(at 293.37 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7863,7 +7863,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 60.96 119.38 0)
+			(at 293.37 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8580,7 +8580,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uH"
+		(property "Value" "330uH"
 			(at 212.09 48.2599 0)
 			(effects
 				(font
@@ -8589,7 +8589,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SRR1050HA-331Y:INDPM102100X510N"
 			(at 210.82 46.99 0)
 			(effects
 				(font
@@ -9541,7 +9541,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB_A")
-		(at 45.72 109.22 0)
+		(at 278.13 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9550,7 +9550,7 @@
 		(fields_autoplaced yes)
 		(uuid "dfb42166-e455-4c2a-8e5e-c050e28c7dff")
 		(property "Reference" "J2"
-			(at 45.72 96.52 0)
+			(at 278.13 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9558,7 +9558,7 @@
 			)
 		)
 		(property "Value" "USB_A"
-			(at 45.72 99.06 0)
+			(at 278.13 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9566,7 +9566,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB_A_Molex_67643_Horizontal"
-			(at 49.53 110.49 0)
+			(at 281.94 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9575,7 +9575,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 110.49 0)
+			(at 281.94 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9584,7 +9584,7 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
-			(at 45.72 109.22 0)
+			(at 278.13 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9635,7 +9635,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uH"
+		(property "Value" "330uH"
 			(at 346.71 106.6799 0)
 			(effects
 				(font
@@ -9644,7 +9644,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SRR1050HA-331Y:INDPM102100X510N"
 			(at 345.44 105.41 0)
 			(effects
 				(font
@@ -9824,7 +9824,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 45.72 119.38 0)
+		(at 278.13 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9833,7 +9833,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed9afe15-9b7f-469b-818b-5d8e9ee115c0")
 		(property "Reference" "#PWR042"
-			(at 45.72 125.73 0)
+			(at 278.13 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9842,7 +9842,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 45.72 124.46 0)
+			(at 278.13 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9850,7 +9850,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 45.72 119.38 0)
+			(at 278.13 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9859,7 +9859,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 119.38 0)
+			(at 278.13 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9868,7 +9868,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 45.72 119.38 0)
+			(at 278.13 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
