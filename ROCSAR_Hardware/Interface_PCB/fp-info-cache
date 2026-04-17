@@ -1,4 +1,4 @@
-26494334533496135
+26496111075549258
 1N5822
 DIOAD2120W130L950D530P
 
@@ -95759,6 +95759,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SRR1050HA-331Y
+INDPM102100X510N
+SRR1050A-4R2Y
+Inductor
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
