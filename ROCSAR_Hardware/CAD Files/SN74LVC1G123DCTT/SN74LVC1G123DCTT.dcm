@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC1G123DCTT
+D Single Retriggerable Monostable Multivibrator with Schmitt-Trigger Inputs
+K
+F http://www.ti.com/lit/gpn/sn74lvc1g123
+$ENDCMP
+#
+#End Doc Library

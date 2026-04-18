@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 1803277
+#
+DEF 1803277 J 0 40 Y Y 1 L N
+F0 "J" -270 200 50 H V L BNN
+F1 "1803277" -250 -200 50 H V L BNN
+F2 "PHOENIX_1803277" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "https://www.snapeda.com/parts/1803277/Phoenix+Contact/view-part/?ref=snap" 0 0 50 H I L BNN "SnapEDA_Link"
+F5 "Pluggable Header 3.81mm 16AWG 160V 8A 2 Position COMBICON MC Series | Phoenix Contact 1803277" 0 0 50 H I L BNN "Description"
+F6 "None" 0 0 50 H I L BNN "Package"
+F7 "None" 0 0 50 H I L BNN "Price"
+F8 "Phoenix Contact" 0 0 50 H I L BNN "MF"
+F9 "1803277" 0 0 50 H I L BNN "MP"
+F10 "In Stock" 0 0 50 H I L BNN "Availability"
+F11 "https://www.snapeda.com/parts/1803277/Phoenix+Contact/view-part/?ref=eda" 0 0 50 H I L BNN "Check_prices"
+DRAW
+S -225 87 -163 112 0 0 0 F
+S -225 -12 -163 12 0 0 0 F
+S -250 -100 250 200 0 0 10 f
+X 01 01 -400 100 200 R 40 40 0 0 P 
+X 02 02 -400 0 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

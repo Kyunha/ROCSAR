@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP V10P6HM3_A_H
+D Schottky Diodes & Rectifiers TMBS 60V Vrrm eSMP AEC-Q101 Qualified
+K
+F https://www.vishay.com/docs/87711/v10p6.pdf
+$ENDCMP
+#
+#End Doc Library

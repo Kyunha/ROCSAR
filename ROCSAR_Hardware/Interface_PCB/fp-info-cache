@@ -1,6 +1,20 @@
-26496111075549258
+26517428776997266
 1N5822
 DIOAD2120W130L950D530P
+
+
+0
+2
+2
+1757242
+PHOENIX_1757242
+
+
+0
+2
+2
+1803277
+PHOENIX_1803277
 
 
 0
@@ -20,6 +34,13 @@ audio belton reverb
 0
 7
 7
+BNO055
+LGA28R50P4X10_380X520X100
+
+
+0
+28
+28
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -67857,6 +67878,27 @@ solder jumper open
 0
 3
 3
+KiCADv6
+PW14
+
+SN74HC126PWR 
+0
+14
+14
+KiCADv6
+PW14-L
+
+SN74HC126PWR 
+0
+14
+14
+KiCADv6
+PW14-M
+
+SN74HC126PWR 
+0
+14
+14
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -69117,6 +69159,13 @@ Undefined or Miscellaneous
 0
 6
 6
+MAX3232CUE+T
+SOP65P640X110-16N
+16 TSSOP_2025-2
+Integrated Circuit
+0
+16
+16
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -73258,6 +73307,13 @@ Oscillator
 Oscillator_SeikoEpson_SG-8002DC
 8-lead dip package, row spacing 7.62 mm (300 mils)
 DIL DIP PDIP 2.54mm 7.62mm 300mil
+0
+4
+4
+PBSS5250PAS-QX
+PMEG2020EPASX
+DFN2020D-3 (SOT1061D)_2021
+Transistor BJT PNP
 0
 4
 4
@@ -93428,6 +93484,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RJE05188051C
+RJE05188051C
+RJE05188051C-1
+Connector
+0
+8
+8
 Radio_Module_PST
 Radio_Module_PST
 
@@ -95758,6 +95821,13 @@ Rotary encoder with switch and illuminated 4,6,8,13,18mm shaft, dual-led, https:
 rotary encoder illuminated switch vertical
 0
 9
+8
+SN74LVC1G123DCTT
+SOP65P400X130-8N
+DCT _R-PDSO-G8)
+Integrated Circuit
+0
+8
 8
 SRR1050HA-331Y
 INDPM102100X510N
@@ -103767,6 +103837,20 @@ igbt diode module
 0
 25
 25
+USB1086-GF-B
+USB1086GFB
+USB1086-GF-B-3
+Connector
+0
+11
+11
+V10P6HM3_A_H
+V10P6HM3_AH
+V10P6HM3_A/H-2
+Schottky Diode
+0
+3
+3
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB1086-GF-B
+D USB-A (USB TYPE-A) USB 3.2 Gen 1 (USB 3.1 Gen 1, Superspeed (USB 3.0)) Receptacle Connector 9 Position Through Hole
+K
+F https://gct.co/files/drawings/usb1086.pdf
+$ENDCMP
+#
+#End Doc Library

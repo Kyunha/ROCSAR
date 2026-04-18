@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PBSS5250PAS-QX
+D PBSS5250PAS-Q - 50 V, 2 A PNP low VCEsat transistor@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/PBSS5250PAS-Q.pdf
+$ENDCMP
+#
+#End Doc Library
