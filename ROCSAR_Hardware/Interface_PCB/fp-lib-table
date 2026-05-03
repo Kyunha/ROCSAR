@@ -14,4 +14,6 @@
   (lib (name "RJE05188051C")(type "KiCad")(uri "/home/rafael-cacoete/Desktop/BEXUS/ROCSAR/ROCSAR_Hardware/CAD Files/RJE05188051C")(options "")(descr ""))
   (lib (name "USB1086-GF-B")(type "KiCad")(uri "/home/rafael-cacoete/Desktop/BEXUS/ROCSAR/ROCSAR_Hardware/CAD Files/USB1086-GF-B")(options "")(descr ""))
   (lib (name "BNO055")(type "KiCad")(uri "/home/rafael-cacoete/Desktop/BEXUS/ROCSAR/ROCSAR_Hardware/CAD Files/BNO055")(options "")(descr ""))
+  (lib (name "SIHFR9024")(type "KiCad")(uri "/home/rafael-cacoete/Desktop/BEXUS/ROCSAR/ROCSAR_Hardware/CAD Files/SIHFR9024.pretty")(options "")(descr ""))
+  (lib (name "ROCSAR_Logo")(type "KiCad")(uri "/home/rafael-cacoete/Desktop/BEXUS/ROCSAR/ROCSAR_Hardware/CAD Files/ROCSAR_Logo")(options "")(descr ""))
 )
