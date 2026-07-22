@@ -18,4 +18,5 @@
 	(lib (name "USB1086-GF-B") (type "KiCad") (uri "${KICAD_CUSTOM}/USB1086-GF-B") (options "") (descr ""))
 	(lib (name "V10P6HM3_A_H") (type "KiCad") (uri "${KICAD_CUSTOM}/V10P6HM3_A_H") (options "") (descr ""))
 	(lib (name "AdafruitBNO055") (type "KiCad") (uri "${KICAD_CUSTOM}/Module_BNO055/AdafruitBNO055.pretty") (options "") (descr ""))
+	(lib (name "1723103103") (type "KiCad") (uri "${KICAD_CUSTOM}/1723103103") (options "") (descr ""))
 )

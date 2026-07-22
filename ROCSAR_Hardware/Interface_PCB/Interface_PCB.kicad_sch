@@ -5,6 +5,460 @@
 	(uuid "7184a9bb-5d63-4a8c-a0a1-4583480dc42d")
 	(paper "A3")
 	(lib_symbols
+		(symbol "1723103103:1723103103"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at -7.62 8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "1723103103"
+				(at -7.62 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "1723103103:MOLEX_1723103103"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DigiKey_Part_Number" "900-1723103103-ND"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/1723103103/Molex/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "8.96 mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/1723103103/Molex/view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PARTREV" "B1"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Molex"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "1723103103"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Description_1" "Ultra-Fit Right-Angle Header with Solder Nail, 3.50mm Pitch, Single Row, 3 Circuits, Tin (Sn) Plating, Black, Glow-Wire Capable"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "Molex"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "1723103103_0_0"
+				(polyline
+					(pts
+						(xy -7.62 5.08) (xy -5.715 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -7.62 2.54) (xy -5.715 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -7.62 0) (xy -5.715 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -7.62 -5.08) (xy -5.715 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -7.62 -7.62) (xy -5.715 -7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.985 7.62) (xy -6.985 -10.16)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -6.985 4.7625)
+					(end -5.3975 5.3975)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -6.985 2.2225)
+					(end -5.3975 2.8575)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -6.985 -0.3175)
+					(end -5.3975 0.3175)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -6.985 -5.3975)
+					(end -5.3975 -4.7625)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -6.985 -7.9375)
+					(end -5.3975 -7.3025)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.985 -10.16) (xy 2.54 -10.16)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 7.62) (xy -6.985 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -10.16) (xy 2.54 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -10.16 5.08 0)
+					(length 3.81)
+					(name "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 2.54 0)
+					(length 3.81)
+					(name "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 0 0)
+					(length 3.81)
+					(name "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -5.08 0)
+					(length 3.81)
+					(name "SHIELD1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -7.62 0)
+					(length 3.81)
+					(name "SHIELD2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "S2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "1757242:1757242"
 			(pin_names
 				(offset 1.016)
@@ -5871,7 +6325,7 @@
 	)
 	(text "BNO055 IMU"
 		(exclude_from_sim no)
-		(at 125.73 184.912 0)
+		(at 124.206 193.04 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -6022,6 +6476,18 @@
 		)
 		(uuid "b58f41f2-ae10-433f-ae4f-a2944ac6ee1b")
 	)
+	(text "Servo Connectors"
+		(exclude_from_sim no)
+		(at 365.252 88.138 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "bc8b2c5b-91cc-4532-a5fd-eb0e2a34d5b8")
+	)
 	(text "Power Regulation System - VDC-12V VDC-5V"
 		(exclude_from_sim no)
 		(at 192.786 19.304 0)
@@ -6092,7 +6558,7 @@
 	)
 	(text "Remove Before Flight"
 		(exclude_from_sim no)
-		(at 285.75 87.63 0)
+		(at 252.73 88.9 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -6103,10 +6569,22 @@
 		(uuid "ffe682c7-8694-45e4-b6f4-8d07aeec5584")
 	)
 	(junction
+		(at 342.9 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "015745c4-9de3-49a1-9205-bed2f9c02d65")
+	)
+	(junction
 		(at 262.89 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0909b7c6-3957-41ba-bf8b-05fc33bd061c")
+	)
+	(junction
+		(at 342.9 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c0c3f4a-d135-401a-b322-273fc10756c8")
 	)
 	(junction
 		(at 261.62 196.85)
@@ -6119,6 +6597,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b0034ec-d99a-4388-a321-ba26f3448459")
+	)
+	(junction
+		(at 379.73 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1dd93d74-0f89-4a65-933d-8926b60d0d4a")
 	)
 	(junction
 		(at 83.82 152.4)
@@ -6145,7 +6629,7 @@
 		(uuid "2df9a37c-0c2c-4d61-bf6d-d846154fa0fe")
 	)
 	(junction
-		(at 259.08 121.92)
+		(at 226.06 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "38603a83-6ba9-4be3-a76c-f753dcd54ddd")
@@ -6163,7 +6647,7 @@
 		(uuid "3da20b79-d97c-4f29-b483-acd5ec0bcc32")
 	)
 	(junction
-		(at 309.88 121.92)
+		(at 276.86 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4362fb72-0589-439d-a508-da658fb18c99")
@@ -6185,6 +6669,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "678feec7-ff9e-4dbd-8921-e02188a0a812")
+	)
+	(junction
+		(at 320.04 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "67c2e602-e506-4308-a4ab-e81ac17bc355")
 	)
 	(junction
 		(at 74.93 158.75)
@@ -6247,6 +6737,12 @@
 		(uuid "aa2d8294-c9b2-4eee-b15a-4b046f74a043")
 	)
 	(junction
+		(at 320.04 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac20d585-6b0f-465f-864d-6feac67ea080")
+	)
+	(junction
 		(at 276.86 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6289,7 +6785,7 @@
 		(uuid "c7fc86e5-dc0f-4e62-8b60-0fa155cde4db")
 	)
 	(junction
-		(at 284.48 111.76)
+		(at 251.46 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c8d664db-32ff-427b-81cd-a82330b0ecd7")
@@ -6323,6 +6819,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ea5337eb-541b-47b3-87c7-919c1e8d3a77")
+	)
+	(junction
+		(at 379.73 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebbcc676-66f6-45bd-b72f-8f922419406a")
 	)
 	(junction
 		(at 292.1 190.5)
@@ -6457,6 +6959,16 @@
 			(type default)
 		)
 		(uuid "06df159a-dc98-437a-a5eb-b6e9e90c77bb")
+	)
+	(wire
+		(pts
+			(xy 342.9 113.03) (xy 342.9 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0799ac13-23bc-4a74-981a-495b7976d253")
 	)
 	(wire
 		(pts
@@ -6600,6 +7112,16 @@
 	)
 	(wire
 		(pts
+			(xy 342.9 105.41) (xy 341.63 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21f97a68-487b-4ddd-be7f-dba9bd6ccab0")
+	)
+	(wire
+		(pts
 			(xy 213.36 186.69) (xy 213.36 184.15)
 		)
 		(stroke
@@ -6637,6 +7159,16 @@
 			(type default)
 		)
 		(uuid "2c521edc-8455-457b-82f1-8d6c99957574")
+	)
+	(bus
+		(pts
+			(xy 320.04 139.7) (xy 407.9649 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e40816b-b68b-4a90-b911-b1a390e255e1")
 	)
 	(wire
 		(pts
@@ -6720,6 +7252,16 @@
 	)
 	(wire
 		(pts
+			(xy 379.73 113.03) (xy 379.73 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3892e20b-854a-456b-b48d-5d64f987c5c6")
+	)
+	(wire
+		(pts
 			(xy 59.69 43.18) (xy 66.04 43.18)
 		)
 		(stroke
@@ -6750,7 +7292,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 121.92) (xy 309.88 124.46)
+			(xy 276.86 123.19) (xy 276.86 125.73)
 		)
 		(stroke
 			(width 0)
@@ -6897,6 +7439,16 @@
 			(type default)
 		)
 		(uuid "4c94085c-5506-4f26-8a8d-1f54d1e16969")
+	)
+	(wire
+		(pts
+			(xy 342.9 107.95) (xy 342.9 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d3fe93d-0638-4d63-85b7-e606d365a147")
 	)
 	(wire
 		(pts
@@ -7090,6 +7642,16 @@
 	)
 	(wire
 		(pts
+			(xy 379.73 105.41) (xy 378.46 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7041a7ca-8130-4d06-94c8-b7ce6c9d49f7")
+	)
+	(wire
+		(pts
 			(xy 22.86 222.25) (xy 19.05 222.25)
 		)
 		(stroke
@@ -7190,7 +7752,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 111.76) (xy 284.48 111.76)
+			(xy 228.6 113.03) (xy 251.46 113.03)
 		)
 		(stroke
 			(width 0)
@@ -7400,6 +7962,16 @@
 	)
 	(wire
 		(pts
+			(xy 379.73 115.57) (xy 379.73 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e98b4d7-eb94-4e0a-ab7e-51f8822993ba")
+	)
+	(wire
+		(pts
 			(xy 17.78 224.79) (xy 17.78 196.85)
 		)
 		(stroke
@@ -7580,7 +8152,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 111.76) (xy 309.88 111.76)
+			(xy 251.46 113.03) (xy 276.86 113.03)
 		)
 		(stroke
 			(width 0)
@@ -7620,7 +8192,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 121.92) (xy 287.02 121.92)
+			(xy 248.92 123.19) (xy 254 123.19)
 		)
 		(stroke
 			(width 0)
@@ -7687,6 +8259,16 @@
 			(type default)
 		)
 		(uuid "af4a0a47-8155-4be3-a4d4-939e4463e370")
+	)
+	(bus
+		(pts
+			(xy 320.04 139.7) (xy 320.04 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b03159e7-ef5a-417b-9602-74cb1e06f590")
 	)
 	(wire
 		(pts
@@ -7760,7 +8342,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 111.76) (xy 309.88 121.92)
+			(xy 276.86 113.03) (xy 276.86 123.19)
 		)
 		(stroke
 			(width 0)
@@ -7900,7 +8482,7 @@
 	)
 	(bus
 		(pts
-			(xy 184.15 139.7) (xy 407.9649 139.7)
+			(xy 184.15 139.7) (xy 320.04 139.7)
 		)
 		(stroke
 			(width 0)
@@ -7917,6 +8499,16 @@
 			(type default)
 		)
 		(uuid "d3686f32-d7ca-444e-a910-d972c6578a9e")
+	)
+	(wire
+		(pts
+			(xy 342.9 115.57) (xy 342.9 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7f49034-aeb4-49aa-ae19-269ee8f22e39")
 	)
 	(wire
 		(pts
@@ -7978,6 +8570,16 @@
 		)
 		(uuid "e2eeae56-3ec3-4c9e-b024-c40f866a5f4d")
 	)
+	(bus
+		(pts
+			(xy 320.04 83.82) (xy 407.8801 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3a7b572-1c57-4ca5-b54b-e8f9af64c2e7")
+	)
 	(wire
 		(pts
 			(xy 255.27 179.07) (xy 255.27 181.61)
@@ -8010,7 +8612,7 @@
 	)
 	(bus
 		(pts
-			(xy 12.1198 83.82) (xy 407.8801 83.82)
+			(xy 12.1198 83.82) (xy 320.04 83.82)
 		)
 		(stroke
 			(width 0)
@@ -8057,6 +8659,16 @@
 			(type default)
 		)
 		(uuid "eb5d3d46-70a2-44e6-9898-99395ff790d2")
+	)
+	(wire
+		(pts
+			(xy 379.73 107.95) (xy 379.73 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebe7ff44-8c85-4e53-84c5-ce85fe880ed0")
 	)
 	(bus
 		(pts
@@ -8120,7 +8732,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 111.76) (xy 259.08 121.92)
+			(xy 226.06 113.03) (xy 226.06 123.19)
 		)
 		(stroke
 			(width 0)
@@ -8140,7 +8752,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 121.92) (xy 259.08 124.46)
+			(xy 226.06 123.19) (xy 226.06 125.73)
 		)
 		(stroke
 			(width 0)
@@ -10719,6 +11331,30 @@
 			"AKAxd8WPstgBAACgRxY7AAAAjbkrftQP73Sn6gdqjmAAAAAASUVORK5CYII="
 		)
 	)
+	(global_label "SERVO_OUT"
+		(shape input)
+		(at 378.46 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0cfdc9d4-510d-4afc-9e91-fd9f4a8a6cb0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 364.831 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "Heating 2"
 		(shape input)
 		(at 304.8 246.38 90)
@@ -10758,6 +11394,30 @@
 		(uuid "1fbdae38-ab05-42c0-aac1-edc44510c0c4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 107.2156 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SERVO_OUT"
+		(shape input)
+		(at 341.63 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "23191d69-638f-4cdd-83b0-0341cd22fdc1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 328.001 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11517,7 +12177,7 @@
 	)
 	(global_label "ON{slash}OFF"
 		(shape input)
-		(at 284.48 121.92 270)
+		(at 251.46 123.19 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11527,7 +12187,7 @@
 		)
 		(uuid "f2e779e2-2f68-4d8a-96b6-183380c39a7d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 284.48 132.4044 90)
+			(at 251.46 133.6744 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11720,7 +12380,7 @@
 	)
 	(symbol
 		(lib_id "V10P6HM3_A_H:V10P6HM3_A_H")
-		(at 309.88 121.92 0)
+		(at 276.86 123.19 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -11731,7 +12391,7 @@
 		(dnp no)
 		(uuid "01411981-925c-4711-9a9b-506f21760b7f")
 		(property "Reference" "D8"
-			(at 298.45 114.3 0)
+			(at 265.43 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11741,7 +12401,7 @@
 			)
 		)
 		(property "Value" "V10P6HM3_A_H"
-			(at 298.45 116.84 0)
+			(at 265.43 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11751,7 +12411,7 @@
 			)
 		)
 		(property "Footprint" "V10P6HM3_AH"
-			(at 290.83 216.84 0)
+			(at 257.81 218.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11763,7 +12423,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/87711/v10p6.pdf"
-			(at 290.83 316.84 0)
+			(at 257.81 318.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11775,7 +12435,7 @@
 			)
 		)
 		(property "Description" "Schottky Diodes & Rectifiers TMBS 60V Vrrm eSMP AEC-Q101 Qualified"
-			(at 309.88 121.92 0)
+			(at 276.86 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11786,7 +12446,7 @@
 			)
 		)
 		(property "Height" "1.2"
-			(at 290.83 516.84 0)
+			(at 257.81 518.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11798,7 +12458,7 @@
 			)
 		)
 		(property "Mouser Part Number" "78-V10P6HM3_A/H"
-			(at 290.83 616.84 0)
+			(at 257.81 618.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11810,7 +12470,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/V10P6HM3_A-H?qs=Vcr9%2FL0R50jPN%252BB9IbPRxg%3D%3D"
-			(at 290.83 716.84 0)
+			(at 257.81 718.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11822,7 +12482,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at 290.83 816.84 0)
+			(at 257.81 818.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11834,7 +12494,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "V10P6HM3_A/H"
-			(at 290.83 916.84 0)
+			(at 257.81 918.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12331,6 +12991,160 @@
 			(project "Interface_PCB"
 				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
 					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 379.73 102.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0b156d05-2d80-4503-81b2-7f1591f9cd5d")
+		(property "Reference" "#PWR040"
+			(at 379.73 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 379.73 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 379.73 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 379.73 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 379.73 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d91e814b-d31f-4c15-a216-5a5310a2dae9")
+		)
+		(instances
+			(project "Interface_PCB"
+				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 379.73 116.84 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0d7f4677-02ab-422a-ac89-de7d267ebfa7")
+		(property "Reference" "#PWR074"
+			(at 379.73 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 379.73 120.65 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 379.73 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 379.73 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 379.73 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "98e6f65e-865d-4649-b096-069fae6de99a")
+		)
+		(instances
+			(project "Interface_PCB"
+				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -12958,7 +13772,7 @@
 	)
 	(symbol
 		(lib_id "power:-VDC")
-		(at 284.48 111.76 0)
+		(at 251.46 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12969,7 +13783,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ae8306f-7aa0-4c4f-a092-0a4d47b7da62")
 		(property "Reference" "#PWR016"
-			(at 284.48 114.3 0)
+			(at 251.46 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12980,7 +13794,7 @@
 			)
 		)
 		(property "Value" "-VDC"
-			(at 284.48 104.14 0)
+			(at 251.46 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12990,7 +13804,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 284.48 111.76 0)
+			(at 251.46 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13001,7 +13815,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 284.48 111.76 0)
+			(at 251.46 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13012,7 +13826,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-VDC\""
-			(at 284.48 111.76 0)
+			(at 251.46 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13737,6 +14551,230 @@
 			(project "Interface_PCB"
 				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
 					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "1723103103:1723103103")
+		(at 389.89 107.95 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2ea26742-bf96-4a53-a4b6-0b90652b70b4")
+		(property "Reference" "J9"
+			(at 393.7 107.9499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1723103103"
+			(at 393.7 110.4899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "1723103103:MOLEX_1723103103"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey_Part_Number" "900-1723103103-ND"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1723103103/Molex/view-part/?ref=snap"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.96 mm"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/1723103103/Molex/view-part/?ref=eda"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "B1"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Molex"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "1723103103"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Description_1" "Ultra-Fit Right-Angle Header with Solder Nail, 3.50mm Pitch, Single Row, 3 Circuits, Tin (Sn) Plating, Black, Glow-Wire Capable"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Molex"
+			(at 389.89 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "S2"
+			(uuid "0a7d1cc1-67b1-4a6b-adae-24412f616b0b")
+		)
+		(pin "S1"
+			(uuid "08c4a517-6c0c-453c-89e3-8dd7204cd540")
+		)
+		(pin "3"
+			(uuid "5e0781e6-f608-4187-bdbc-2ed7387924a8")
+		)
+		(pin "1"
+			(uuid "ae120680-d9ec-47d7-9ee6-59754fd9d2d2")
+		)
+		(pin "2"
+			(uuid "d393d1cd-5835-43a9-b7a0-f12fb4c62ade")
+		)
+		(instances
+			(project "Interface_PCB"
+				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -14626,7 +15664,7 @@
 	)
 	(symbol
 		(lib_id "V10P6HM3_A_H:V10P6HM3_A_H")
-		(at 259.08 121.92 0)
+		(at 226.06 123.19 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14637,7 +15675,7 @@
 		(fields_autoplaced yes)
 		(uuid "3fef78fe-271a-46cf-95f3-1ca44baf2782")
 		(property "Reference" "D7"
-			(at 270.51 114.3 0)
+			(at 237.49 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14647,7 +15685,7 @@
 			)
 		)
 		(property "Value" "V10P6HM3_A_H"
-			(at 270.51 116.84 0)
+			(at 237.49 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14657,7 +15695,7 @@
 			)
 		)
 		(property "Footprint" "V10P6HM3_AH"
-			(at 278.13 216.84 0)
+			(at 245.11 218.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14669,7 +15707,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/87711/v10p6.pdf"
-			(at 278.13 316.84 0)
+			(at 245.11 318.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14681,7 +15719,7 @@
 			)
 		)
 		(property "Description" "Schottky Diodes & Rectifiers TMBS 60V Vrrm eSMP AEC-Q101 Qualified"
-			(at 259.08 121.92 0)
+			(at 226.06 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14692,7 +15730,7 @@
 			)
 		)
 		(property "Height" "1.2"
-			(at 278.13 516.84 0)
+			(at 245.11 518.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14704,7 +15742,7 @@
 			)
 		)
 		(property "Mouser Part Number" "78-V10P6HM3_A/H"
-			(at 278.13 616.84 0)
+			(at 245.11 618.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14716,7 +15754,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/V10P6HM3_A-H?qs=Vcr9%2FL0R50jPN%252BB9IbPRxg%3D%3D"
-			(at 278.13 716.84 0)
+			(at 245.11 718.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14728,7 +15766,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at 278.13 816.84 0)
+			(at 245.11 818.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14740,7 +15778,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "V10P6HM3_A/H"
-			(at 278.13 916.84 0)
+			(at 245.11 918.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15196,6 +16234,83 @@
 			(project "Interface_PCB"
 				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 342.9 116.84 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "483c8694-08e0-48eb-80ed-2647b7e65435")
+		(property "Reference" "#PWR076"
+			(at 342.9 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 342.9 120.65 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 342.9 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 342.9 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 342.9 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e8c79da7-6281-4737-8344-38588794221b")
+		)
+		(instances
+			(project "Interface_PCB"
+				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -15914,6 +17029,230 @@
 			(project "Interface_PCB"
 				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
 					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "1723103103:1723103103")
+		(at 353.06 107.95 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "60fd4bfc-06ce-4896-be16-2a99a22d6ee7")
+		(property "Reference" "J10"
+			(at 356.87 107.9499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1723103103"
+			(at 356.87 110.4899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "1723103103:MOLEX_1723103103"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey_Part_Number" "900-1723103103-ND"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1723103103/Molex/view-part/?ref=snap"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.96 mm"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/1723103103/Molex/view-part/?ref=eda"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "B1"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Molex"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "1723103103"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Description_1" "Ultra-Fit Right-Angle Header with Solder Nail, 3.50mm Pitch, Single Row, 3 Circuits, Tin (Sn) Plating, Black, Glow-Wire Capable"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Molex"
+			(at 353.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "S2"
+			(uuid "1fa5f7b1-230e-4ea1-b405-4d4e2be75a78")
+		)
+		(pin "S1"
+			(uuid "2ccb882b-f9a8-4349-9a0c-34b6e1ef7281")
+		)
+		(pin "3"
+			(uuid "e010d1e4-a0d9-48a7-a3a4-a240b637ed66")
+		)
+		(pin "1"
+			(uuid "58f2c752-700b-4532-8498-33b9e789324b")
+		)
+		(pin "2"
+			(uuid "db53887d-b5cd-46b1-bd75-1054a5c7762a")
+		)
+		(instances
+			(project "Interface_PCB"
+				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -18853,7 +20192,7 @@
 	)
 	(symbol
 		(lib_id "1803277:1803277")
-		(at 259.08 101.6 270)
+		(at 226.06 102.87 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -18864,7 +20203,7 @@
 		(dnp no)
 		(uuid "a90b0788-8aaf-41a8-a1f6-1924f32ada70")
 		(property "Reference" "J1"
-			(at 251.46 101.6 0)
+			(at 218.44 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18874,7 +20213,7 @@
 			)
 		)
 		(property "Value" "1803277"
-			(at 254 101.6 0)
+			(at 220.98 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18884,7 +20223,7 @@
 			)
 		)
 		(property "Footprint" "PHOENIX_1803277"
-			(at 259.08 101.6 0)
+			(at 226.06 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18896,7 +20235,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 259.08 101.6 0)
+			(at 226.06 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18908,7 +20247,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 259.08 101.6 0)
+			(at 226.06 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18919,7 +20258,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1803277/Phoenix+Contact/view-part/?ref=snap"
-			(at 259.08 101.6 0)
+			(at 226.06 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18931,7 +20270,7 @@
 			)
 		)
 		(property "Description_1" "Pluggable Header 3.81mm 16AWG 160V 8A 2 Position COMBICON MC Series | Phoenix Contact 1803277"
-			(at 259.08 101.6 0)
+			(at 226.06 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18943,7 +20282,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 259.08 101.6 0)
+			(at 226.06 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18955,7 +20294,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 259.08 101.6 0)
+			(at 226.06 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18967,7 +20306,7 @@
 			)
 		)
 		(property "MF" "Phoenix Contact"
-			(at 259.08 101.6 0)
+			(at 226.06 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18979,7 +20318,7 @@
 			)
 		)
 		(property "MP" "1803277"
-			(at 259.08 101.6 0)
+			(at 226.06 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18991,7 +20330,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 259.08 101.6 0)
+			(at 226.06 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19003,7 +20342,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/1803277/Phoenix+Contact/view-part/?ref=eda"
-			(at 259.08 101.6 0)
+			(at 226.06 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21176,6 +22515,83 @@
 			(project "Interface_PCB"
 				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
 					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 342.9 102.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d9468139-5c75-45dd-8df6-a0e08972dcb1")
+		(property "Reference" "#PWR041"
+			(at 342.9 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 342.9 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 342.9 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 342.9 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 342.9 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2c5fbc36-0c21-4b8f-89c5-be72fd83af25")
+		)
+		(instances
+			(project "Interface_PCB"
+				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)

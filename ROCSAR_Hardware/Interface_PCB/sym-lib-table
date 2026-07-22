@@ -15,4 +15,5 @@
 	(lib (name "USB1086-GF-B") (type "KiCad") (uri "C:/Users/rafae/Documents/BEXUS/ROCSAR/ROCSAR_Hardware/CAD Files/USB1086-GF-B/USB1086-GF-B.kicad_sym") (options "") (descr ""))
 	(lib (name "BNO055") (type "KiCad") (uri "C:/Users/rafae/Documents/BEXUS/ROCSAR/ROCSAR_Hardware/CAD Files/BNO055/BNO055.kicad_sym") (options "") (descr ""))
 	(lib (name "TDN_3-1211WI") (type "KiCad") (uri "C:/Users/rafae/Documents/ROCSAR/ROCSAR_Hardware/CAD Files/TDN_3-1211WI/TDN_3-1211WI.kicad_sym") (options "") (descr ""))
+	(lib (name "1723103103") (type "KiCad") (uri "${KICAD_CUSTOM}/1723103103/1723103103.kicad_sym") (options "") (descr ""))
 )
