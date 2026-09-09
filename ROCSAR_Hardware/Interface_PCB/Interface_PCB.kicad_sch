@@ -6665,6 +6665,12 @@
 		(uuid "51d90fa0-da25-4a02-8bcd-a5ef676c9b07")
 	)
 	(junction
+		(at 262.89 251.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6321a8bf-4cf3-46af-a21d-d7b36e91f6a9")
+	)
+	(junction
 		(at 184.15 180.4664)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6687,6 +6693,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71bb077c-9381-456e-976c-8c12650957c7")
+	)
+	(junction
+		(at 262.89 246.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72d1fcf5-eea5-4c19-8ceb-0c8af38eadb1")
 	)
 	(junction
 		(at 261.62 261.62)
@@ -6761,18 +6773,6 @@
 		(uuid "b8a4ef19-4ef2-4a42-9d7d-f5618673ea00")
 	)
 	(junction
-		(at 262.89 251.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bb580c78-e2e5-45e8-8d0c-80c13a8e4e7d")
-	)
-	(junction
-		(at 262.89 246.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd828a84-12ef-46be-8ae0-afccf796181e")
-	)
-	(junction
 		(at 207.01 236.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6831,6 +6831,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ecb8b761-178d-4f6f-be56-ab7c133ac1fa")
+	)
+	(junction
+		(at 251.46 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ecd0fb6b-85f7-410c-9f45-4b1de6ee7e35")
 	)
 	(junction
 		(at 74.93 152.4)
@@ -6979,6 +6985,16 @@
 			(type default)
 		)
 		(uuid "08c6f0f2-c7fe-4d63-ba5e-ee10b2f80115")
+	)
+	(wire
+		(pts
+			(xy 251.46 123.19) (xy 254 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ae8249b-6d8a-4ef9-9b82-2425c8dcd881")
 	)
 	(bus
 		(pts
@@ -8092,6 +8108,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 125.73) (xy 251.46 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f7f4d97-8014-4317-a1ab-4219ca232bcc")
+	)
+	(wire
+		(pts
 			(xy 213.36 182.88) (xy 213.36 184.15)
 		)
 		(stroke
@@ -8192,7 +8218,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 123.19) (xy 254 123.19)
+			(xy 248.92 123.19) (xy 251.46 123.19)
 		)
 		(stroke
 			(width 0)
@@ -12177,7 +12203,7 @@
 	)
 	(global_label "ON{slash}OFF"
 		(shape input)
-		(at 251.46 123.19 270)
+		(at 251.46 125.73 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12187,7 +12213,7 @@
 		)
 		(uuid "f2e779e2-2f68-4d8a-96b6-183380c39a7d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 251.46 133.6744 90)
+			(at 251.46 136.2144 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15261,88 +15287,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 262.89 248.92 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "37539003-1951-4d62-83d9-7670d1e75627")
-		(property "Reference" "C14"
-			(at 265.43 247.6562 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C_Small"
-			(at 265.43 250.1962 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 262.89 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 262.89 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 262.89 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a9d48520-fb25-4325-9940-1e0a72b173e0")
-		)
-		(pin "2"
-			(uuid "1793b1a0-dcb5-46ac-bf67-ee61ec37bd27")
-		)
-		(instances
-			(project "Interface_PCB"
-				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
-					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 372.11 26.67 0)
 		(unit 1)
@@ -16852,6 +16796,88 @@
 			(project "Interface_PCB"
 				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
 					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 262.89 248.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e16c5ed-6039-458c-b981-7c7af4b41158")
+		(property "Reference" "C15"
+			(at 265.43 247.6562 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C_Small"
+			(at 265.43 250.1962 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H16.0mm_P5.00mm"
+			(at 262.89 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 262.89 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 262.89 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "52ec3459-eb6b-4212-9dd2-de77b0bb15e4")
+		)
+		(pin "2"
+			(uuid "da476a1f-4cc1-4c8d-bdc9-5ab156f4dffc")
+		)
+		(instances
+			(project "Interface_PCB"
+				(path "/7184a9bb-5d63-4a8c-a0a1-4583480dc42d"
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -18389,7 +18415,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H16.0mm_P5.00mm"
 			(at 262.89 184.15 0)
 			(hide yes)
 			(show_name no)
